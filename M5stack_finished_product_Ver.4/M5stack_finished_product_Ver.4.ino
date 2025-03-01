@@ -6,8 +6,8 @@
 #include <M5Unified.h>
 #include <esp_sntp.h>
 
-#define WIFI_SSID     "TP-Link_BBDD"
-#define WIFI_PASSWORD "71340555"
+#define WIFI_SSID     "YOUR WIFI SSID NAME"
+#define WIFI_PASSWORD "YOUR WIFI PASSWORD"
 #define NTP_TIMEZONE  "JST-9"
 #define NTP_SERVER1   "0.pool.ntp.org"
 #define NTP_SERVER2   "1.pool.ntp.org"
